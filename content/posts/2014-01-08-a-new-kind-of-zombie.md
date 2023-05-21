@@ -1,0 +1,24 @@
+---
+title: "A New Kind of Zombie"
+date: "2014-01-08"
+categories: 
+  - "MediaMixEd"
+tags: 
+  - "television"
+  - "anime"
+  - "bbc"
+  - "zombie"
+  - "zombies"
+---
+
+I don’t know about you, but I’m pretty much over zombies. I mean, I’ll still continue to watch _The Walking Dead_, because it remains a pretty compelling television show, but for me, zombies (and vampires!) have pretty much run their current course, with two notable exceptions.
+
+\[caption id="attachment\_311" align="alignright" width="273"\][![Not your average flesh-eating monsters.](http://mediamixed.files.wordpress.com/2014/01/fleshtitan.png?w=273)](http://mediamixed.files.wordpress.com/2014/01/fleshtitan.png) Not your average flesh-eating monsters.\[/caption\]
+
+The first is BBC’s [_In the Flesh_](http://www.bbcamerica.com/in-the-flesh/ "BBC Website for In the Flesh series"), which aired last summer. It is a post-zombie show, both figuratively and literally. The zombie uprising is over and now those affected by the illness, who have not already been put down permanently, are back among the living, survivors with PDS (Partially Deceased Syndrome) who must check in with social workers and maintain a medication regimen to keep the illness in check. But both the normal humans and the PDS zombies must still deal with the memories and knowledge of the atrocities that followed the outbreak, and must work out how to live together once again. While the show walks a familiar path of allegory for contemporary social and domestic issues, as well as the older topic of “otherness,” it changes the whole zombie dynamic. The typical zombie carnage is largely in the past, and the violence that remains, both physical and emotional, is perpetrated almost wholly by the living. I know that BBC intends to create a second season, and the 3-night mini-series certainly left a number of issues unresolved. At the same time, I’m not sure that there is enough to sustain a longer show. It would be sadly ironic for the show to become afflicted with its own form of PDS.
+
+The second series, on the other hand, has much more storytelling to do. I’ve just binged through the first 13-episodes of the Japanese animated series [_Attack on Titan_](http://www.funimation.com/shows/attack-on-titan/anime "U.S. Distributor Funimation's website for Attack on Titan ") and I have not been so caught up in a show in quite a while. Part of it is the pacing (time flies!) and how each episode seems to end with a cliffhanger that compels you watch just one more episode. _Titan_ is that guy at the costume party that spent two years preparing a costume, just in case. It is a zombie show unlike any other. The “zombies” here are certainly mindless man-eaters, but they are not really zombies in the sense of being the risen undead. Here, they are the titans of the title. They are giant (3m-15m tall), asexual, human-like creatures who roam the earth consuming people. In the first season, we learn that they showed up over 100 years prior and nearly wiped out all of humanity, but we still don’t know where they’ve come from. The humans responded by building and withdrawing to a multi-walled nation-state and a peaceful existence has persisted for nearly a century. In episode 1, new titan variants appear on the scene and breach the outermost wall, opening up a new era of bloodshed. Our primary characters begin as young teens who soon find themselves volunteering to train as warriors in the Survey Corps branch of the military, to serve the nation at the front in the ongoing battle against the titans. I’m oversimplifying so as not to give too much away, but _Attack on Titan_ is one of the darkest, most gut-wrenching, and brutal animated shows that I’ve watched. But, it is also a bright, action-packed, incredibly well-done adventure series that is compelling to watch. There is also plenty of mystery remaining as humanity learns more about this enemy and how to survive against it. I’ve already started on the next 13 episodes. \[Did I mention it has been a huge commercial success as well, with sales of the original 12-book manga series reaching over 28 million volumes?\]
+
+I know that Japanese anime is not everyone’s cup of tea, and I’m not sure that _Attack on Titan_ is likely to change your mind. However, if you are a fan of the zombie genre but are looking for something fresh and new, I strongly recommend it. If you prefer flesh-and-blood actors, maybe _In the Flesh_ is more your cup of zombie brew.
+
+_In the Flesh_ is available on DVD now and _Attack on Titan_ is available to watch free on Funimation's web site ([http://www.funimation.com/shows/attack-on-titan/anime](http://www.funimation.com/shows/attack-on-titan/anime)) or on CrunchyRoll ([http://www.crunchyroll.com](http://www.crunchyroll.com)), with DVDs releasing later this year.

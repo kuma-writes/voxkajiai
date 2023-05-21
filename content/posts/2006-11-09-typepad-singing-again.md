@@ -1,0 +1,7 @@
+---
+title: Singing Again
+date: 2006-11-09
+categories: ["blog"]
+tags: ["typepad"]
+---
+A couple of weeks ago I started singing again. Don't get me wrong, I'm always singing, but it is more of the "singing in the car" or "singing in the shower" variety. But, more recently I have started to sing with a small chorus under the direction of someone who teaches music. And, I'm having a blast with it. Coming up in December will be the annual Gakugeikai for the Amherst Japan Language School. This is the event at which the students present/perform something they've been practicing in class. Usually this is a reading from the text or maybe a script the students have prepared. There has even been a kanji quiz with the audience a couple of years ago. At this event also a group of parents will also perform. In the past we have avoided participating merely because we did not have the time to practice. This year, almost by accident, we agreed to participate. So, three Saturdays ago we headed out to the Morimoto family home for an informal farewell to the Shinya family. After eating and talking for a while, a number of us gathered around the piano to begin singing. The song is an acapella version of Sakura by Naotaro Moriyama. Things went very well and last week we met after Saturday school for another practice. The number of participants increased and the harmony is starting to come together. And, I'm having fun.

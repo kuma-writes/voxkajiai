@@ -1,0 +1,22 @@
+---
+title: "It's Complicated: Using Media in Traditional Research Papers"
+date: "2011-04-27"
+categories: 
+  - "MediaMixEd"
+tags: 
+  - "course-media"
+---
+
+I had an interesting conversation with a colleague yesterday about the use or, more specifically, about the choice to use media in a traditional research paper. Just because we can include media content, should we? Why not? There are conventions to include outside text when a writer is commenting on it. For years, before it was easy to simply cut-and-paste an image into a paper, the challenge for a writer who chose to discuss an image, a sound or a videoclip was to adequately convey through words alone the content of that piece of media to the audience. Now, with digital publishing, an essay can include not only still images, but video and sound as well. We should encourage more digital publishing with just this kind of rich media, shouldn’t we?
+
+And, that’s where it gets complicated, on a number of levels. Three that crop up in particular are selection, inclusion, and citation.
+
+The first challenge is in the act of selecting content to use. I think it can be reasonably argued that this is primarily an academic issue, one that teachers and professors should be responsible for in educating their students. It many ways this is no different from selecting text. Certainly, by taking the media description burden away from writers we may be depriving them of an opportunity to build their linguistic skills, but the media doesn’t stand on its own. It still needs to be properly included in the flow of the essay. My comment to my colleague was that the downside of a text description alone is that the author is filtering elements of the media in such a way as to be potentially deceptive about the actual content. This can be done with text, too, but there is at least a formal convention to indicate when a passage of text is quoted with words removed. The reply back, however, was that the media work itself may already be a filtered or doctored presentation. What is happening beyond the frame of the image? With Photoshop and digital manipulation, how much authenticity does the actual media object possess? Beyond that, to what degree does the use of certain media work against the research argument itself? In writing about exploitative images or gratuitous violence, would the inclusion of such examples strengthen or weaken the argument and be complicit in the exploitation? In the service of academic discourse, perhaps these are some of the questions we should be asking our students to consider. It’s complicated, and worthy of much more discussion than I can give it here, but more of a pedagogical issue.
+
+Once the items are selected, though, the next challenge is in including the media objects within a research paper. I’m using the word “paper” here, even though it may actually never be printed. Rather than pedagogical, this barrier is more of a technical one. Students, for the most part, already know how to cut-and-paste images, and many of them know how to include web links to online resources. Including audio and video files can be more of an impediment. Linking to an external video source, such as on YouTube, does not usually provide a suitable means of “excerpting” a segment under discussion. Not to mention, there is a risk that any linked content could potentially disappear before the paper can reach its final audience. Learning how to extract a specific clip from a web video or a DVD is a skill that requires additional training and even puts students’ behavior potentially at odds with DMCA laws. Then, once the technical issues are overcome, there’s still a question of delivery. While many faculty are willing to accept student essays in electronic format, there is still often an expectation that the document will be printed. There is resistance to working with a document that is purely electronic. So again, it’s complicated.
+
+Perhaps the least complicated of the issues surrounds citation. After all, this is largely a matter of training. There are already guidelines for citation. However, as more and more students turn to the materials that are mixed, mashed and blended, they are often at a loss on how to properly identify the origins of the works they are choosing. The source materials themselves become the complicating factor.
+
+So, do we continue to encourage using multi-media resources in traditional research papers? Can we afford not to do so? How best to proceed?
+
+I’d welcome your advice or suggestions.
