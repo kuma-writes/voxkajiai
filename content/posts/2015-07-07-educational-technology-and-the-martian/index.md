@@ -3,7 +3,7 @@ title: "Educational Technology and \"The Martian\""
 date: "2015-07-07"
 categories: 
   - "MediaMixEd"
-tags: 
+tags:
   - "books"
   - "course-media"
   - "musings"
@@ -11,22 +11,14 @@ tags:
   - "education"
   - "highered"
   - "inspiration"
-cover:
-    image: "images/MediaMixEd-Banner.png"
-    # can also paste direct link from external site
-    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-    alt: "<alt text>"
-    caption: "<text>"
-    relative: false # To use relative path for cover image, used in hugo Page-bundles  
 ---
 
 It has been far too long since I added a new post. Life just sort of gets in the way sometimes. But, I was inspired to post again.
 
 Having just completed Andy Weir's _The Martian_, I've been thinking about media, technology and applications of both to educational technology. If you haven't already read Weir's debut novel, a highly enjoyable survival story of an astronaut, Mark Watney, left behind on Mars when his crewmates suddenly are forced to flee the planet, I strongly recommend it. It reads like a longer version of the Apollo 13 mission. Remember the scene in the film adaptation where a guy shows up with a cardboard box of parts that look like an auto mechanic's yard sale and says, "I think we can save them"? _The Martian_ is like that for nearly its entire length.
 
-![](images/the_martian_2014.jpg)
-
-![](https://upload.wikimedia.org/wikipedia/commons/7/71/The_Martian_%28Weir_novel%29.jpg) "The Martian 2014." Licensed under Fair use via Wikipedia - https://en.wikipedia.org/wiki/File:The\_Martian\_2014.jpg#/media/File:The\_Martian\_2014.jpg\[/caption\]
+![](images/File:The_Martian_2014.jpg) 
+"The Martian 2014." Licensed under Fair use via Wikipedia - https://en.wikipedia.org/wiki/File:The\_Martian\_2014.jpg#/media/File:The\_Martian\_2014.jpg\
 
 What does that have to do with educational technology you ask? As a classic survivor tale, the book is about all of the following (yes, there's overlap, but bear with me):
 
