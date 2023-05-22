@@ -1,8 +1,9 @@
 ---
 title: James Kim...
-date: 2006-12-6
-categories: ["blog"]
-tags: ["typepad"]
+date: 2006-12-06
+categories: ["From Typepad"]
+tags: 
+  - "in memoriam"
 ---
 I was very saddened today to read of the discovery of James Kim's body in the Oregon wilderness. More than other tragic events in recent memory, I can't say why, but his passing is having a deep emotional affect on me.
 

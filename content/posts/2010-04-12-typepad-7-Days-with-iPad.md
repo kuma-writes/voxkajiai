@@ -1,8 +1,10 @@
 ---
 title: 7 Days with and iPad
 date: 2010-04-12
-categories: ["blog"]
-tags: ["typepad"]
+categories: ["From Typepad"]
+tags: 
+  - "iPad"
+  - "apps"
 ---
 Ever since I started watching Star Trek TNG I’ve been expecting (okay, hoping) to use the technology similar to that which arrived in my office a week ago, the Apple iPad. Well, the future may be here at last (except for my flying car, of course), but this jury of one is still out on the iPad. It is a device that I really want to love, and yet something holds me back. It is a device that I feel really does have a role to play, but not all niche fillers are runaway hits. I do believe that Apple will sell a ton of them and that they will thrive in the market, and that developers will continue to develop outstanding apps for them. I just don’t know if I’m ready to adopt one formally for my personal use.
 

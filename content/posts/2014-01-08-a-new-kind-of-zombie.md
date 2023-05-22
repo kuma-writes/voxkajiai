@@ -6,7 +6,7 @@ categories:
 tags: 
   - "television"
   - "anime"
-  - "bbc"
+  - "BBC"
   - "zombie"
   - "zombies"
 ---

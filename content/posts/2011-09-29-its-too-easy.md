@@ -5,9 +5,9 @@ categories:
   - "MediaMixEd"
 tags: 
   - "musings"
-  - "amazon-com"
-  - "ipad"
-  - "kindle"
+  - "Amazon"
+  - "iPad"
+  - "Kindle"
   - "tablet"
 ---
 

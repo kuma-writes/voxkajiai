@@ -1,8 +1,11 @@
 ---
 title: iPhone/iTouch Apps for Japanese Study.
-date: 2006-12-6
-categories: ["blog"]
-tags: ["typepad"]
+date: 2009-11-08
+categories: ["From Typepad"]
+tags: 
+  - "iPhone"
+  - "apps"
+  - "Japanese"
 ---
 (Ed. links removed since the apps no longer exist as they did back in 2009)
 

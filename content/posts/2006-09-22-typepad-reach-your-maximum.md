@@ -1,8 +1,10 @@
 ---
 title: How Do You Reach Your Maximum
 date: 2006-09-22
-categories: ["blog"]
-tags: ["typepad"]
+categories: ["From Typepad"]
+tags: 
+  - "MacOS"
+  - "Windows"
 ---
 J. Angelo Racoma at [Forever Geek](https://web.archive.org/web/20061016093020/http://forevergeek.com/apple/mac_vs_windows_its_all_about_the_maximize_button.php) pointed me in the direction of another blog at [Restiffbard](https://web.archive.org/web/20061029044537/http://restiffbard.com/archives/2006/09/15/windows-goes-full-os-x-goes-small/), and both deal with the simple difference in how Windows and Mac differ on a feature as simple as maximizing a window and how users operate given this behavior of the OS.
 

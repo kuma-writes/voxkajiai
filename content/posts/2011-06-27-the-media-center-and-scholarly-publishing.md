@@ -2,9 +2,10 @@
 title: "The Media Center and Scholarly Publishing"
 date: "2011-06-27"
 categories: 
+  - "MediaMixEd"
+tags: 
   - "copyright"
   - "libraries"
-tags: 
   - "scholarly-publishing"
 ---
 

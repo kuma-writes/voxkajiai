@@ -5,9 +5,8 @@ categories:
   - "MediaMixEd"
 tags: 
   - "libraries"
-  - "amazon"
-  - "amazon-com"
-  - "kindle"
+  - "Amazon"
+  - "Kindle"
 ---
 
 Amazon may have just knocked it out of the park, or at least hit a triple, for me in terms of deciding on an e-reader. They’ve announced the “[Kindle Owners’ Lending Library](http://www.amazon.com/gp/feature.html/ref=amb_link_357575542_1?ie=UTF8&docId=1000739811&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=gateway-center-column&pf_rd_r=1VYVFBR28CRDDPQX8VYY&pf_rd_t=101&pf_rd_p=1328834582&pf_rd_i=507846),” a book-a-month lending program for Amazon Prime Kindle Owners.

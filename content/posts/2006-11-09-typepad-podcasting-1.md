@@ -1,8 +1,9 @@
 ---
 title: Podcasting 1 - Death of Audible
 date: 2006-11-09
-categories: ["blog"]
-tags: ["typepad"]
+categories: ["From Typepad"]
+tags: 
+  - "podcasting"
 ---
 I've been a long-time fan of audible books. Well, for me long-time goes back about eight years. That's when I started borrowing books on tape from the school library and listening to them on my 15 minute commute to and from work. It takes a long time to get through an unabridged book with only 25-30 minutes per day, but I really enjoyed it. I've "read" more books this way than I've been able to get through with bedtime reading, not including all the books I read to my son up until he started 6th grade.
 

@@ -8,7 +8,7 @@ tags:
   - "copyright"
   - "musings"
   - "amazon"
-  - "apple"
+  - "Apple"
   - "consumer-rights"
   - "ebooks"
   - "publishing"

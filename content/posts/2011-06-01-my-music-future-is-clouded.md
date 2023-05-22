@@ -6,10 +6,10 @@ categories:
 tags: 
   - "music"
   - "musings"
-  - "amazon"
-  - "apple"
+  - "Amazon"
+  - "Apple"
   - "cloud"
-  - "google"
+  - "Google"
 ---
 
 Yesterday we read of Apple’s announcement that Steve Jobs will address the assembled loyal at the WWDC event this summer, and that he will be talking about the rumored iCloud service. Details beyond that are not yet forthcoming, but [Amazon](http://www.amazon.com/) and [Google](http://music.google.com/)both went to the cloud earlier this Spring.

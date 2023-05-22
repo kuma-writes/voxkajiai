@@ -1,8 +1,9 @@
 ---
 title: Podcasting 2 - I'm Such A TWiT
 date: 2006-11-09
-categories: ["blog"]
-tags: ["typepad"]
+categories: ["From Typepad"]
+tags: 
+  - "podcasting"
 ---
 So, even now my drive commute is fairly short, about 20-25 minutes. That doesn't give me too much time to listen to my Audible books, but I was usually able to get through a book a month. Now that I've become a fan of podcasts, my book subscriptions never get listened to.
 
