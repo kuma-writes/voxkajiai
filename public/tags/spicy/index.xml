@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spicy on Vox Kajiai</title>
+    <link>http://localhost:1313/tags/spicy/</link>
+    <description>Recent content in Spicy on Vox Kajiai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Wed, 11 May 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/spicy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Spicy Chorizo and Chicken Soup</title>
+      <link>http://localhost:1313/posts/2016-05-11-chorizo_and_chicken_spicy_soup/</link>
+      <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2016-05-11-chorizo_and_chicken_spicy_soup/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cajun Shrimp Bake</title>
+      <link>http://localhost:1313/posts/2014-11-23-cajun_shrimp_bake/</link>
+      <pubDate>Sun, 23 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2014-11-23-cajun_shrimp_bake/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legumes on Vox Kajiai</title>
+    <link>http://localhost:1313/tags/legumes/</link>
+    <description>Recent content in Legumes on Vox Kajiai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Mon, 09 Feb 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/legumes/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dalitoy</title>
+      <link>http://localhost:1313/posts/2015-02-09-dalitoy/</link>
+      <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-02-09-dalitoy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Masoor Dal</title>
+      <link>http://localhost:1313/posts/2014-01-24-masoordal/</link>
+      <pubDate>Fri, 24 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2014-01-24-masoordal/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

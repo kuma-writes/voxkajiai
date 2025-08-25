@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edtech on Vox Kajiai</title>
+    <link>http://localhost:1313/tags/edtech/</link>
+    <description>Recent content in Edtech on Vox Kajiai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Tue, 04 Aug 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/edtech/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Badging in the Media Center</title>
+      <link>http://localhost:1313/posts/2015-08-04-badging-in-the-media-center/</link>
+      <pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-08-04-badging-in-the-media-center/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Educational Technology and &#34;The Martian&#34;</title>
+      <link>http://localhost:1313/posts/2015-07-07-educational-technology-and-the-martian/</link>
+      <pubDate>Tue, 07 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-07-07-educational-technology-and-the-martian/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2015-07-07-educational-technology-and-the-martian/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>A Different Kind of Course Credit</title>
+      <link>http://localhost:1313/posts/2014-01-13-a-different-kind-of-course-credit/</link>
+      <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2014-01-13-a-different-kind-of-course-credit/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

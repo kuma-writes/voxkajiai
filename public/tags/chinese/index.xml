@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chinese on Vox Kajiai</title>
+    <link>http://localhost:1313/tags/chinese/</link>
+    <description>Recent content in Chinese on Vox Kajiai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sun, 23 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/chinese/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dry Fried Chinese Green Beans</title>
+      <link>http://localhost:1313/posts/2017-04-23-dry_fried_chinese_green_beans/</link>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-04-23-dry_fried_chinese_green_beans/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Crab and Tofu Bisque with Cilantro</title>
+      <link>http://localhost:1313/posts/2014-01-27-crab_and_tofu_bisque/</link>
+      <pubDate>Mon, 27 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2014-01-27-crab_and_tofu_bisque/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

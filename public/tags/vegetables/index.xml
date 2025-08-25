@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vegetables on Vox Kajiai</title>
+    <link>http://localhost:1313/tags/vegetables/</link>
+    <description>Recent content in Vegetables on Vox Kajiai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sun, 23 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/vegetables/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dry Fried Chinese Green Beans</title>
+      <link>http://localhost:1313/posts/2017-04-23-dry_fried_chinese_green_beans/</link>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2017-04-23-dry_fried_chinese_green_beans/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Spicy Garlic Lime Chicken</title>
+      <link>http://localhost:1313/posts/2014-08-18-spicy_garlic_lime_chicken_with_vegetables/</link>
+      <pubDate>Mon, 18 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2014-08-18-spicy_garlic_lime_chicken_with_vegetables/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Palak Paneer</title>
+      <link>http://localhost:1313/posts/2014-06-25-palak_paneer_with_tofu/</link>
+      <pubDate>Wed, 25 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2014-06-25-palak_paneer_with_tofu/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Seafood and Veggie Tom Yum Soup</title>
+      <link>http://localhost:1313/posts/2014-03-26-seafood_vegetable_tom_yum_soup/</link>
+      <pubDate>Wed, 26 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2014-03-26-seafood_vegetable_tom_yum_soup/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

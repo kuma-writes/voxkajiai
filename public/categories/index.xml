@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Vox Kajiai</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Vox Kajiai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Recipes</title>
+      <link>http://localhost:1313/categories/recipes/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/recipes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Poetry</title>
+      <link>http://localhost:1313/categories/poetry/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/poetry/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>100 Days to Offload</title>
+      <link>http://localhost:1313/categories/100-days-to-offload/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/100-days-to-offload/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MediaMixEd</title>
+      <link>http://localhost:1313/categories/mediamixed/</link>
+      <pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/mediamixed/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>From Typepad</title>
+      <link>http://localhost:1313/categories/from-typepad/</link>
+      <pubDate>Mon, 12 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/from-typepad/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Film on Vox Kajiai</title>
+    <link>http://localhost:1313/tags/film/</link>
+    <description>Recent content in Film on Vox Kajiai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/film/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>In the Dunes</title>
+      <link>http://localhost:1313/posts/2021-10-26/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2021-10-26/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Still Not a Cord-Cutter</title>
+      <link>http://localhost:1313/posts/2011-12-12-still-not-a-cord-cutter/</link>
+      <pubDate>Mon, 12 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2011-12-12-still-not-a-cord-cutter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The First &#34;Anthony &amp; Josh on MediaMixEd&#34; Podcast</title>
+      <link>http://localhost:1313/posts/2011-11-23-the-first-anthony-josh-on-mediamixed-podcast/</link>
+      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2011-11-23-the-first-anthony-josh-on-mediamixed-podcast/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Moving Memories</title>
+      <link>http://localhost:1313/posts/2011-06-03-moving-memories/</link>
+      <pubDate>Fri, 03 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2011-06-03-moving-memories/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

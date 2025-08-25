@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scholarly-Publishing on Vox Kajiai</title>
+    <link>http://localhost:1313/tags/scholarly-publishing/</link>
+    <description>Recent content in Scholarly-Publishing on Vox Kajiai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Mon, 27 Jun 2011 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/scholarly-publishing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Media Center and Scholarly Publishing</title>
+      <link>http://localhost:1313/posts/2011-06-27-the-media-center-and-scholarly-publishing/</link>
+      <pubDate>Mon, 27 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2011-06-27-the-media-center-and-scholarly-publishing/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scholarship on Vox Kajiai</title>
+    <link>http://localhost:1313/tags/scholarship/</link>
+    <description>Recent content in Scholarship on Vox Kajiai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Mon, 10 Oct 2011 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/scholarship/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Post-text Scholarship</title>
+      <link>http://localhost:1313/posts/2011-10-10-post-text-scholarship/</link>
+      <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2011-10-10-post-text-scholarship/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

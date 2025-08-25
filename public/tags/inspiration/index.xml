@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inspiration on Vox Kajiai</title>
+    <link>http://localhost:1313/tags/inspiration/</link>
+    <description>Recent content in Inspiration on Vox Kajiai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Tue, 07 Jul 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/inspiration/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Educational Technology and &#34;The Martian&#34;</title>
+      <link>http://localhost:1313/posts/2015-07-07-educational-technology-and-the-martian/</link>
+      <pubDate>Tue, 07 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2015-07-07-educational-technology-and-the-martian/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2015-07-07-educational-technology-and-the-martian/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>A Day Made of Glass, A Future of Opportunity</title>
+      <link>http://localhost:1313/posts/2011-07-20-154/</link>
+      <pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2011-07-20-154/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Music Maker</title>
+      <link>http://localhost:1313/posts/2011-05-24-music-maker/</link>
+      <pubDate>Tue, 24 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2011-05-24-music-maker/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
