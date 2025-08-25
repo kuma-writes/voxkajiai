@@ -1,6 +1,6 @@
 ---
 title: "Roasted Vegetable Chowder"
-date: 22014-01-6
+date: 2014-01-06
 Categories: ["Recipes"]
 Tags: ["soup", "vegetarian", "gluten-free"]
 

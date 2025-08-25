@@ -1,6 +1,6 @@
 ---
 Title: Honey-Soy Broiled Salmon
-Date: 2014-10-22 20:20 
+Date: 2014-10-22 
 Categories: ["Recipes"]
 Tags: ["fish", "salmon", "quick"]
 

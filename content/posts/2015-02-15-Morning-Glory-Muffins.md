@@ -1,6 +1,6 @@
 ---
 Title: Morning Glory Muffins
-Date: 2015-02-15 10:58 
+Date: 2015-02-15 
 Categories: ["Recipes"]
 Tags: ["breakfast", "brunch", "muffins"]
 
